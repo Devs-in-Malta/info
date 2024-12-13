@@ -12,7 +12,7 @@ You can engage with "Devs in Malta" on the following platforms:
  - Facebook: [Devs in Malta](https://www.facebook.com/groups/1048515246726068)
  - Instagram: [@devsinmalta](https://www.instagram.com/devsinmalta)
  - Linkedin: [Devs in Malta](https://www.linkedin.com/groups/13101635/)
- - Discord: [Devs in Malta](https://discord.gg/SpjKcUUEqe)
+ - Discord: [Devs in Malta](https://discord.gg/ZYtZ8PjYXp)
 
 ## Spam
 Any communications not being distributed from the aforementioned channels should be considered as spam.
