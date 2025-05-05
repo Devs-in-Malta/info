@@ -27,3 +27,23 @@ Jack is currently responsible for the operations and communications of the group
 > If you'd like to connect, the best place to find me is Linkedin @ [Jack Gee](https://www.linkedin.com/in/jack-otto-gee/).
 >
 > I look forward to meeting you at events in the future! 🙂
+
+## Community Member - William Smallman-Köpf
+
+![William Smallman-Koepf](resources/members/wsk.jpg)
+
+### Responsibilites
+William is assisting to organise events and administration for Devs in Malta.
+
+### Profile
+>After university, I took a 5-year break from software to play drums and promote shows in Birmingham’s local music scene - a world far from tech. But during the pandemic, I fell back in love with coding and found my footing as a developer just before moving to Malta, an island I’ve visited for 15 years.
+>
+>As a backend engineer, I currently work with Java and the spring ecosystem, building cloud-native systems with event-driven messaging and Temporal workflows.
+>
+>Music has stayed close to me—I've recorded a podcast exploring how tech shapes our relationship with music and the real world, and dabbled in full stack web apps, recently enjoying the serverless flexibility of Next.js.
+>
+>I like to read about topics from anthropology and history to maths and physics (although I'm incredibly novice at the latter). Otherwise you might find me running around Majjistral or dancing in Storeroom.
+>
+>You can connect with me on Linkedin @ [Wismko](https://www.linkedin.com/in/wismko)
+>
+>Catch you around 😘
